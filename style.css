@@ -1,0 +1,41 @@
+img{
+
+position: absolute;
+width: 202px;
+height: 197px;
+left: 145px;
+top: 102px;
+border-radius: 300px;
+
+}
+
+principal{
+  position: absolute;
+  width: 429px;
+  height: 142px;
+  left: 464px;
+  top: 215px;
+
+  font-family: 'Jomolhari';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+
+  color: #000000;
+}
+h1{
+  position: absolute;
+width: 738px;
+height: 136px;
+left: 464px;
+top: 126px;
+
+font-family: 'Jomolhari';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 64px;
+
+color: #000000;
+}
