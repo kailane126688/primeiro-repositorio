@@ -1,6 +1,87 @@
-.nome{
-  color: pink;
-  position: relative;
-  margin-left: 500px;
-  font-size: 80px
+.foto1{
+    position: absolute;
+    width: 674px;
+    height: 540px;
+    left: 35px;
+    top: 36px;
+    border: 12px solid #D98DEC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 32px;
+}
+
+.titulo{
+    position: absolute;
+width: 714px;
+height: 498px;
+left: 763px;
+top: 78px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 128px;
+line-height: 155px;
+ color: #E988C8;
+ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.lista{
+    position: absolute;
+width: 683px;
+height: 722px;
+left: 65px;
+top: 619;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 77px;
+color: #D188CA;
+}
+
+.foto2{
+position: absolute;
+width: 468px;
+height: 576px;
+left: 910px;
+top: 619px;
+border: 12px solid #E78AE9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 49px;
+}
+
+.texto1{
+position: absolute;
+width: 1321px;
+height: 392px;
+left: 57px;
+top: 1237px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 58px;
+text-align: right;
+color: #000000;
+}
+
+.insta{
+    position: absolute;
+width: 83px;
+height: 83px;
+left: 57px;
+top: 1688px;
+}
+
+.ig{
+position: absolute;
+width: 375px;
+height: 77px;
+left: 166px;
+top: 1694px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 58px;
+color: #000000;
 }
